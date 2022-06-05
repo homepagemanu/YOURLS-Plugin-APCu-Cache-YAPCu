@@ -1,4 +1,4 @@
-Copyright (c) 2011, Ian Barber, (c) 2016 Chris Hastie
+Copyright (c) 2011, Ian Barber, (c) 2016 Chris Hastie, (c) 2022 Manuel Freund
 
 All rights reserved.
 
