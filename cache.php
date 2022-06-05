@@ -1,3 +1,3 @@
 <?php
-// Early loader for APC Cache
-include(YOURLS_PLUGINDIR . '/yapcache/plugin.php');
+// Early loader for APCu Cache
+include( YOURLS_PLUGINDIR . '/yapcu-cache/plugin.php' );
